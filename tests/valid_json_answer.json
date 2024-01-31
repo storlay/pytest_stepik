@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "page": 1,
+    "has_next": false,
+    "has_previous": false
+  },
+  "users": [
+    {
+      "id": 37228178,
+      "profile": 37228178,
+      "is_private": false,
+      "is_active": true,
+      "is_guest": false,
+      "is_organization": false,
+      "is_author": true,
+      "short_bio": "Основатель и преподаватель онлайн-школы BEEGEEK.  Автор курсов \"Поколение Python\".",
+      "details": "Цель образовательных курсов \"Поколение Python\" – сделать процесс обучения проще и эффективнее.\n<br>\n<br>\n\nНаш официальный сайт: <a href=\"https://pygen.ru\" rel=\"noopener noreferrer nofollow\" target=\"_ blank\">pygen.ru</a>.\n\n<br>\n\nНаш официальный telegram-канал: <a href=\"https://t.me/pygen_ru\" rel=\"noopener noreferrer nofollow\" target=\"_ blank\">t.me/pygen_ru</a>.\n\n<br>\n\nНаш официальный магазин мерча: <a href=\"https://shop.pygen.ru/\" rel=\"noopener noreferrer nofollow\" target=\"_ blank\">shop.pygen.ru</a>.\n<br>\n\nНаш официальный YouTube-канал: <a href=\"https://www.youtube.com/@pygen_ru\" rel=\"noopener noreferrer nofollow\" target=\"_ blank\">@pygen_ru</a>.\n\n<br>\n<br>\n\n<p style=\"text-align: right;\">❤️ Happy Pythoning! 🐍</p>",
+      "first_name": "Тимур 🐍",
+      "last_name": "Гуев",
+      "full_name": "Тимур 🐍 Гуев",
+      "alias": null,
+      "avatar": "https://cdn.stepik.net/media/users/37228178/avatar.png",
+      "cover": null,
+      "city": 524901,
+      "knowledge": 360,
+      "knowledge_rank": 295084,
+      "reputation": 124929925,
+      "reputation_rank": 1,
+      "join_date": "2017-10-15T14:58:07Z",
+      "social_profiles": [
+        38488,
+        38487,
+        30727
+      ],
+      "solved_steps_count": 361,
+      "created_courses_count": 21,
+      "created_lessons_count": 4646,
+      "issued_certificates_count": 160710,
+      "followers_count": 1076246
+    }
+  ]
+}
